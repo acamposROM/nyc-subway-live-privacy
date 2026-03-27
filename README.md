@@ -1,1 +1,1 @@
-# nyc-subway-live-priacy
+# nyc-subway-live-privacy
